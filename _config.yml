@@ -1,0 +1,30 @@
+title: KRX_404
+description: "Mon parcours cybersécurité — du début à junior pentester. Blog & roadmap."
+author: Ricardo Koukoui
+email: koukouiricardo55@gmail.com
+url: "https://ricardokoukoui.github.io"
+baseurl: "/KRX_404"
+
+lang: fr
+timezone: Africa/Porto-Novo
+markdown: kramdown
+permalink: /blog/:title/
+
+exclude:
+  - templates/
+  - docs/
+  - labs/
+  - LICENSE
+  - README.md
+  - RESSOURCES.md
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: post
+      author: Ricardo Koukoui

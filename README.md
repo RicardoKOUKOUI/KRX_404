@@ -3,9 +3,12 @@
 > Mon parcours en **cybersécurité** — du début jusqu’à junior pentester.  
 > Si tu veux suivre les mêmes traces, ce repo est ta roadmap.
 
+**Blog (GitHub Pages) :** [https://ricardokoukoui.github.io/KRX_404/](https://ricardokoukoui.github.io/KRX_404/)
+
 **Auteur :** Ricardo Corneil Finagnon Koukoui ([@RicardoKOUKOUI](https://github.com/RicardoKOUKOUI))  
 **Profil :** Cybersecurity enthusiast · Junior Pentester · CS student (IFRI)  
-**OS :** Parrot Security / Linux
+**OS :** Parrot Security / Linux  
+**YouTube :** [@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f) · **LinkedIn :** [Ricardo Koukoui](https://www.linkedin.com/in/ricardo-koukoui-8a8437399)
 
 ---
 

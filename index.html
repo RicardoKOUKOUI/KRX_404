@@ -1,0 +1,29 @@
+---
+layout: default
+title: Blog
+description: Parcours cybersécurité de Ricardo Koukoui — articles, méthode, labs.
+---
+
+<section class="hero">
+  <p class="eyebrow">Blog · Cybersécurité · Learning in public</p>
+  <h1>KRX<em>_404</em></h1>
+  <p class="lede">
+    Mon chemin du début jusqu’à junior pentester. Des articles concrets pour
+    ceux qui veulent suivre les mêmes traces — éthique, pratique, méthode.
+  </p>
+  <div class="hero-actions">
+    <a class="btn primary" href="{{ '/about/' | relative_url }}">Voir le parcours</a>
+    <a class="btn" href="https://www.youtube.com/@mr-robot-g2f">YouTube Mr-Robot</a>
+  </div>
+</section>
+
+<section class="grid">
+  {% assign posts = site.posts %}
+  {% for post in posts %}
+  <a class="card" href="{{ post.url | relative_url }}">
+    <div class="tag">{{ post.category | default: "Article" }} · {{ post.date | date: "%d %b %Y" }}</div>
+    <h2>{{ post.title }}</h2>
+    <p>{{ post.description | default: post.excerpt | strip_html | truncate: 140 }}</p>
+  </a>
+  {% endfor %}
+</section>
