@@ -1,0 +1,50 @@
+---
+title: "Après EEIA — je crée ma chaîne YouTube"
+description: "Pourquoi j’ai lancé @mr-robot-g2f : garder la discipline, partager ce que j’apprends, et documenter le chemin en public."
+category: Journal · YouTube
+reading_time: 4
+---
+
+Après mon mois à l’**EEIA 2026**, une chose était claire : j’avais **beaucoup appris**, et je ne voulais pas que ça reste juste dans ma tête.
+
+Alors j’ai créé ma chaîne YouTube : **[@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)** (Mr-Robot).
+
+## Pourquoi une chaîne ?
+
+Deux raisons simples :
+
+1. **Garder ma discipline**  
+   Poster, même imparfaitement, me force à avancer.  
+   Quand tu sais que tu dois expliquer quelque chose, tu apprends mieux.  
+   La caméra (ou l’écran) devient un rendez-vous avec moi-même.
+
+2. **Partager mon savoir**  
+   Labs, commandes Linux, cyber, retours d’expérience EEIA / IA…  
+   Ce que je découvre, je le redis à voix haute pour ceux qui démarrent derrière moi.  
+   Learning in public, version vidéo.
+
+## Ce que tu y trouveras
+
+- Du **contenu cyber** (bases, labs, mindset)  
+- Des **retours d’expérience** (EEIA, routine, outils)  
+- Une vibe **Mr-Robot** / terminal — sans prétendre être un expert fini
+
+Je ne vends pas une “méthode magique”.  
+Je montre **où j’en suis**, ce que je comprends, et ce que je corrige au fil du temps.
+
+## Lien avec KRX_404
+
+Le blog reste la **mémoire écrite**.  
+YouTube, c’est la **discipline vivante** + le partage plus direct.
+
+- Blog / parcours : [KRX_404]({{ '/' | relative_url }})  
+- Chaîne : [youtube.com/@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)
+
+## En résumé
+
+- Après EEIA → besoin de **tenir le rythme**  
+- Chaîne créée pour la **discipline** et le **partage**  
+- Pseudo / marque : **Mr-Robot** · **@mr-robot-g2f**  
+- Même règle qu’ici : **éthique**, labs et cadres autorisés seulement
+
+Si tu veux suivre le chemin en vidéo aussi, abonne-toi et on avance ensemble.
