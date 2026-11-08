@@ -11,7 +11,7 @@ Un junior n’a pas besoin de 300 tools. Il a besoin d’un **kit propre**.
 | Recon web | browser + DevTools | Comprendre l’app |
 | Réseau | Wireshark, nmap | Voir / cartographier (scope autorisé) |
 | Notes | Obsidian / Notion / Markdown | Mémoire longue |
-| Report | Markdown / PDF / Pentest Report Studio | Livrable |
+| Report | Markdown / PDF | Livrable |
 
 ## Bonnes pratiques outils
 

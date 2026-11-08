@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Le parcours
-description: La carte complète — du début à junior pentester.
+description: La carte complète — cybersécurité — étape par étape.
 permalink: /about/
 ---
 
 ## Qui je suis
 
 Je m’appelle **Ricardo Koukoui**.  
-Étudiant en sécurité informatique à l’**IFRI**, passionné de CTF & pentest, en construction d’un profil **junior pentester**.
+Étudiant en sécurité informatique à l’**IFRI**, passionné de CTF & cybersécurité, en construction d’un profil **profil cybersécurité**.
 
 ## Comment lire ce blog
 
@@ -20,12 +20,12 @@ Je m’appelle **Ricardo Koukoui**.
 3. **Maîtrise des commandes Linux (Bandit OverTheWire — write-ups 0→fin)**  
 4. Fondamentaux (Linux, réseau, bases)  
 5. Culture cyber  
-6. Pentest web  
+6. Sécurité web  
 7. Labs & CTF  
 8. Outils du quotidien  
 9. Portfolio & rapports  
 
-Le post le plus récent côté journal : formation **Web Pentest Foundation**, PortSwigger, streak TryHackMe.  
+Le post le plus récent côté journal : formation web (PortSwigger) + streak TryHackMe.  
 
 ## Liens
 

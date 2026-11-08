@@ -1,11 +1,11 @@
 ---
 title: "Fondamentaux : Linux, réseau, bases (ne pas skip)"
-description: "Avant le pentest style film, il faut des bases solides. Voici mon socle."
+description: "Les bases solides avant d’aller plus loin. Voici mon socle."
 category: Étape 03 · Fondamentaux
 reading_time: 6
 ---
 
-Avant le “pentest style Hollywood”, il faut des bases solides.
+Il faut des bases solides avant d’aller plus loin.
 
 > Cette étape consolide les bases (après Parrot + Bandit dans mon parcours blog).  
 > Ici, on pose les bases — peu importe la distro, la méthode reste la même.

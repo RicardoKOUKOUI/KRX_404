@@ -1,6 +1,6 @@
 # 03 — Fondamentaux (ne pas skip)
 
-Avant le “pentest style Hollywood”, il faut des bases solides.
+Il faut des bases solides avant d’aller plus loin.
 
 > Avant : [choix du système](01-choix-systeme.md) et [Bandit](02-maitrise-linux-bandit.md).
 

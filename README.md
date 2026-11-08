@@ -1,12 +1,12 @@
 # KRX_404
 
-> Mon parcours en **cybersécurité** — du début jusqu’à junior pentester.  
+> Mon parcours en **cybersécurité** — du début à la cybersécurité, étape par étape.  
 > Si tu veux suivre les mêmes traces, ce repo est ta roadmap.
 
 **Blog (GitHub Pages) :** [https://ricardokoukoui.me/KRX_404/](https://ricardokoukoui.me/KRX_404/) · [github.io](https://ricardokoukoui.github.io/KRX_404/)
 
 **Auteur :** Ricardo Corneil Finagnon Koukoui ([@RicardoKOUKOUI](https://github.com/RicardoKOUKOUI))  
-**Profil :** Cybersecurity enthusiast · Junior Pentester · CS student (IFRI)  
+**Profil :** Cybersecurity enthusiast · Cybersécurité · CS student (IFRI)  
 **OS :** Parrot Security / Linux  
 **YouTube :** [@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f) · **LinkedIn :** [Ricardo Koukoui](https://www.linkedin.com/in/ricardo-koukoui-8a8437399)
 
@@ -30,7 +30,7 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 | 02 | **Maîtrise commandes Linux (Bandit)** | [docs/02-maitrise-linux-bandit.md](docs/02-maitrise-linux-bandit.md) |
 | 03 | Bases (informatique, réseau, Linux) | [docs/03-fondamentaux.md](docs/03-fondamentaux.md) |
 | 04 | Cybersécurité défensive & culture sécu | [docs/04-culture-cyber.md](docs/04-culture-cyber.md) |
-| 05 | Entrée pentest web | [docs/05-web-pentest.md](docs/05-web-pentest.md) |
+| 05 | Sécurité web | [docs/05-securite-web.md](docs/05-securite-web.md) |
 | 06 | Labs & CTF (pratique) | [docs/06-labs-ctf.md](docs/06-labs-ctf.md) |
 | 07 | Outils du quotidien | [docs/07-outils.md](docs/07-outils.md) |
 | 08 | Soft skills, rapports, portfolio | [docs/08-portfolio-et-rapports.md](docs/08-portfolio-et-rapports.md) |
@@ -66,7 +66,6 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 
 | Projet | Idée |
 |--------|------|
-| [Pentest Report Studio](https://github.com/RicardoKOUKOUI) | Aide à la rédaction de rapports (CVSS, findings, export) |
 | Autres repos | À jour sur mon profil GitHub |
 
 *(Les liens exacts seront mis à jour au fur et à mesure.)*

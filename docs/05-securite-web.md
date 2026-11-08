@@ -1,6 +1,6 @@
-# 05 — Entrée pentest web (focus junior)
+# 05 — Sécurité web (bases)
 
-Mon axe principal : **applications web**. C’est accessible, demandé, et parfait pour un junior.
+Un axe important : **applications web**. Accessible, concret, et très demandé.
 
 ## Parcours pratique recommandé
 

@@ -1,6 +1,6 @@
 # Ressources (liste vivante)
 
-## Web / Pentest
+## Web / Sécurité
 
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)

@@ -1,11 +1,11 @@
 # 04 — Culture cybersécurité
 
-Le pentest n’est qu’**une** branche. Un junior crédible comprend le paysage.
+L’aspect offensif n’est qu’**une** branche. Un junior crédible comprend le paysage.
 
 ## Domaines à connaître (vue d’ensemble)
 
 - **Blue team** : SOC, détection, réponse à incident
-- **Red team / Pentest** : simulation d’attaque autorisée
+- **Red team / tests autorisés** : simulation d’attaque dans un cadre légal
 - **AppSec** : sécuriser le code / le cycle de dev
 - **Gouvernance** : politiques, risques, conformité (haut niveau)
 

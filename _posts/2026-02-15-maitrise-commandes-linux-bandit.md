@@ -29,7 +29,7 @@ Parce que chaque level t’oblige à apprendre une brique réelle :
 - git  
 - escapes de shell  
 
-Exactement le genre de réflexes qu’un junior cyber utilise ensuite en labs / pentest.
+Exactement le genre de réflexes qu’un junior cyber utilise ensuite en labs et en pratique.
 
 ## Write-ups complets (Level 0 → fin)
 
@@ -58,4 +58,4 @@ Mot de passe initial du level 0 : `bandit0`
 Te perdre fait partie du process.  
 Bandit est là pour ça. Ces write-ups sont une **boussole**, pas un remplacement de ta réflexion.
 
-Suite du parcours : culture cyber, puis pentest web.
+Suite du parcours : culture cyber, puis la suite du parcours.

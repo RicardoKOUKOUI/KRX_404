@@ -28,7 +28,7 @@ On te juge sur : **clarté, méthode, éthique, remédiation**.
 
 ## Objectifs junior réalistes
 
-- Stage / assistant pentester / AppSec junior
+- Stage / junior cybersécurité / AppSec
 - Contribuer à des labs / write-ups
 - Continuer à publier régulièrement
 

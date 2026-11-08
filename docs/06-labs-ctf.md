@@ -13,7 +13,7 @@ Template : [`../templates/WRITEUP.md`](../templates/WRITEUP.md)
 
 - **TryHackMe** — guidé, parfait débutant → junior
 - **Hack The Box** — plus rough, bon après les bases
-- **PortSwigger Academy** — web pentest gold
+- **PortSwigger Academy** — référence sécurité web
 - **picoCTF / CTF locaux** — culture challenge
 
 ## Comment progresser sans se noyer

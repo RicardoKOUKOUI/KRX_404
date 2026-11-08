@@ -1,11 +1,11 @@
 ---
-title: "Entrée pentest web : mon focus junior"
+title: "Sécurité web : les bases"
 description: "OWASP, Burp/ZAP, XSS, SQLi, IDOR — la méthode et les labs pour démarrer proprement."
-category: Étape 05 · Pentest web
+category: Étape 05 · Sécurité web
 reading_time: 7
 ---
 
-Mon axe principal : **applications web**. C’est accessible, demandé, et parfait pour un junior.
+Un axe important : **applications web**. Accessible, concret, et très demandé.
 
 ## Parcours pratique
 

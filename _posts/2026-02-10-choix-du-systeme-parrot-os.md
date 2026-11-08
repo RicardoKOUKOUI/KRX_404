@@ -27,10 +27,10 @@ Choisir son OS et savoir **expliquer pourquoi**, ça montre déjà une posture :
    Sur des machines plus modestes, Parrot est souvent plus confortable au jour le jour.
 
 4. **Privacy & posture éthique**  
-   L’esprit Parrot insiste beaucoup sur la vie privée et une approche responsable — important quand on parle pentest junior.
+   L’esprit Parrot insiste beaucoup sur la vie privée et une approche responsable — important quand on apprend la cybersécurité.
 
 5. **Outils déjà présents**  
-   Pentest, forensics, OSINT, anonymat… une grosse partie de la stack est là dès l’installation.
+   Sécu, forensics, OSINT, anonymat… une grosse partie de la stack est là dès l’installation.
 
 6. **Base Debian**  
    Même famille stable que beaucoup d’environnements pro : tu apprends des réflexes transférables (apt, services, packages).
@@ -40,16 +40,16 @@ Choisir son OS et savoir **expliquer pourquoi**, ça montre déjà une posture :
 | Système | Ce que ça apporte | Ce que je trouve limitant |
 |---------|-------------------|---------------------------|
 | **Parrot OS** *(mon choix)* | Équilibre lab + quotidien, privacy, outils inclus, se démarquer | Moins “star” que Kali dans certains discours entreprise |
-| **Kali Linux** | Standard pentest très connu, énorme communauté, tonnes de tutos | Plus orienté “machine d’audit” que desktop du quotidien |
+| **Kali Linux** | Très connue en sécu offensive, énorme communauté, tonnes de tutos | Plus orienté “machine d’audit” que desktop du quotidien |
 | **Ubuntu / Debian “vanilla”** | Idéal pour apprendre Linux proprement | Il faut monter toute la stack sécu soi-même |
-| **Windows seul** | Logiciels courants, bureautique | Moins naturel pour le tooling pentest classique |
+| **Windows seul** | Logiciels courants, bureautique | Moins naturel pour le tooling sécu classique |
 
 ### En résumé (mon avis)
 
 - **Parrot** → mon terrain de jeu principal, différent, complet, utilisable tous les jours  
 - **Kali** → excellent, très demandé, je le respecte et je peux m’y adapter  
 - **Ubuntu/Debian** → super pour solidifier Linux “pur”  
-- **Windows** → ok en complément, pas suffisant seul pour mon objectif pentest  
+- **Windows** → ok en complément, pas suffisant seul pour mon objectif cybersécurité  
 
 ## Ce que je te conseille
 

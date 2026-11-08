@@ -27,4 +27,4 @@ Je n’ai pas “tout su” d’un coup. J’ai commencé par la curiosité — 
 4. **Rester éthique** : labs, autorisations, bug bounty dans les règles  
 
 Si tu débutes vraiment, passe à l’article sur les fondamentaux.  
-Si tu as déjà Linux/réseau, saute vers le pentest web + les labs.
+Si tu as déjà Linux/réseau, saute vers les labs et la suite du parcours.

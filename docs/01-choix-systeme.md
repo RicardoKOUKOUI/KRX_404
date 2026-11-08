@@ -17,9 +17,9 @@ Moi, j’ai choisi **Parrot OS** pour être **différent**, et parce que ça col
 | Système | Points forts | Limite fréquente |
 |---------|--------------|------------------|
 | **Parrot OS** | Lab + quotidien, privacy, outils, identité | Moins “standard corporate” que Kali |
-| **Kali Linux** | Référence pentest, grosse communauté | Moins pensé comme desktop du quotidien |
+| **Kali Linux** | Très connue en sécu offensive, grosse communauté | Moins pensé comme desktop du quotidien |
 | **Ubuntu / Debian** | Apprendre Linux proprement | Stack sécu à installer soi-même |
-| **Windows seul** | Bureautique / apps courantes | Moins naturel pour le tooling pentest |
+| **Windows seul** | Bureautique / apps courantes | Moins naturel pour le tooling sécu |
 
 ## Message clé
 
