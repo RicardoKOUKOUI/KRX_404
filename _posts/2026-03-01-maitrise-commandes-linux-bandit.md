@@ -5,7 +5,7 @@ category: Étape 03 · Linux
 reading_time: 5
 ---
 
-Après le choix de **Parrot OS** et les fondamentaux, il fallait **vraiment** maîtriser le terminal.
+Après les **fondamentaux** et le choix de **Parrot OS**, il fallait **vraiment** maîtriser le terminal.
 
 Mon terrain d’entraînement : **[Bandit — OverTheWire](https://overthewire.org/wargames/bandit/)**.
 

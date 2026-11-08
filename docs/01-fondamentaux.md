@@ -1,16 +1,10 @@
----
-title: "Fondamentaux : Linux, réseau, bases (ne pas skip)"
-description: "Avant le pentest style film, il faut des bases solides. Voici mon socle — sur Parrot OS dans mon cas."
-category: Étape 02 · Fondamentaux
-reading_time: 6
----
+# 01 — Fondamentaux (ne pas skip)
 
 Avant le “pentest style Hollywood”, il faut des bases solides.
 
-> J’ai déjà choisi mon système (**Parrot OS**) dans l’étape précédente.  
-> Ici, on pose les bases — peu importe la distro, la méthode reste la même.
+> Ensuite : [choix du système](02-choix-systeme.md) (Parrot OS), puis [Bandit](03-maitrise-linux-bandit.md).
 
-## Informatique générale
+## 1) Informatique générale
 
 - Comment marche un OS (processus, fichiers, utilisateurs, permissions)
 - Différence client / serveur
@@ -18,7 +12,7 @@ Avant le “pentest style Hollywood”, il faut des bases solides.
 
 **Objectif :** lire une doc technique sans paniquer.
 
-## Linux (obligatoire)
+## 2) Linux (obligatoire)
 
 Sur Parrot / Kali / Debian / Ubuntu :
 
@@ -29,22 +23,28 @@ Sur Parrot / Kali / Debian / Ubuntu :
 
 **Exercice :** administre ta propre machine. Casse, répare, recommence.
 
-## Réseau
+## 3) Réseau
 
 - IP, MAC, DNS, DHCP
 - TCP vs UDP
 - Ports courants (22, 80, 443, 445…)
 - Modèle simplifié : “paquet → service → appli”
 
-## Programmation (minimum utile)
+**Outils d’apprentissage :** Wireshark (observer), labs Cisco Packet Tracer / docs réseau.
+
+## 4) Programmation (minimum utile)
+
+Pas besoin d’être dev senior, mais :
 
 - Lire du **Python** / **Bash**
 - Comprendre un peu de **JavaScript** (web)
 - Savoir lire une requête HTTP et un JSON
 
-## Checklist
+**Exercice :** petit script qui parse un fichier de ports ou un export Burp.
 
-- [ ] À l’aise en terminal Linux  
-- [ ] Je comprends IP / DNS / HTTP  
-- [ ] Je peux expliquer GET/POST  
-- [ ] Je sais lire une erreur sans abandonner  
+## Checklist étape 02
+
+- [ ] Je suis à l’aise en terminal Linux
+- [ ] Je comprends IP / DNS / HTTP
+- [ ] Je peux expliquer une requête GET/POST
+- [ ] Je sais lire un message d’erreur sans abandonner

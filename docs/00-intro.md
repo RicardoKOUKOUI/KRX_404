@@ -28,5 +28,5 @@ Je n’ai pas “tout su” d’un coup. J’ai commencé par la curiosité (com
 
 ## Comment utiliser ce repo
 
-Si tu débutes vraiment → commence à `01-choix-systeme.md` puis `02-fondamentaux.md`  
-Si tu as déjà Linux/réseau → saute vers `04-web-pentest.md` + `05-labs-ctf.md`
+Si tu débutes vraiment → commence à `01-fondamentaux.md`, puis `02-choix-systeme.md`, puis Bandit  
+Si tu as déjà Linux/réseau → saute vers `05-web-pentest.md` + `06-labs-ctf.md`

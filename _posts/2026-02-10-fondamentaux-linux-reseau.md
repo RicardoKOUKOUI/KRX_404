@@ -1,10 +1,16 @@
-# 02 — Fondamentaux (ne pas skip)
+---
+title: "Fondamentaux : Linux, réseau, bases (ne pas skip)"
+description: "Avant le pentest style film, il faut des bases solides. Voici mon socle."
+category: Étape 01 · Fondamentaux
+reading_time: 6
+---
 
 Avant le “pentest style Hollywood”, il faut des bases solides.
 
-> Choix d’OS : voir [01-choix-systeme.md](01-choix-systeme.md) (Parrot OS dans mon cas).
+> Ensuite viendra le **choix du système** (Parrot OS), puis Bandit pour la pratique.  
+> Ici, on pose les bases — peu importe la distro, la méthode reste la même.
 
-## 1) Informatique générale
+## Informatique générale
 
 - Comment marche un OS (processus, fichiers, utilisateurs, permissions)
 - Différence client / serveur
@@ -12,7 +18,7 @@ Avant le “pentest style Hollywood”, il faut des bases solides.
 
 **Objectif :** lire une doc technique sans paniquer.
 
-## 2) Linux (obligatoire)
+## Linux (obligatoire)
 
 Sur Parrot / Kali / Debian / Ubuntu :
 
@@ -23,28 +29,22 @@ Sur Parrot / Kali / Debian / Ubuntu :
 
 **Exercice :** administre ta propre machine. Casse, répare, recommence.
 
-## 3) Réseau
+## Réseau
 
 - IP, MAC, DNS, DHCP
 - TCP vs UDP
 - Ports courants (22, 80, 443, 445…)
 - Modèle simplifié : “paquet → service → appli”
 
-**Outils d’apprentissage :** Wireshark (observer), labs Cisco Packet Tracer / docs réseau.
-
-## 4) Programmation (minimum utile)
-
-Pas besoin d’être dev senior, mais :
+## Programmation (minimum utile)
 
 - Lire du **Python** / **Bash**
 - Comprendre un peu de **JavaScript** (web)
 - Savoir lire une requête HTTP et un JSON
 
-**Exercice :** petit script qui parse un fichier de ports ou un export Burp.
+## Checklist
 
-## Checklist étape 02
-
-- [ ] Je suis à l’aise en terminal Linux
-- [ ] Je comprends IP / DNS / HTTP
-- [ ] Je peux expliquer une requête GET/POST
-- [ ] Je sais lire un message d’erreur sans abandonner
+- [ ] À l’aise en terminal Linux  
+- [ ] Je comprends IP / DNS / HTTP  
+- [ ] Je peux expliquer GET/POST  
+- [ ] Je sais lire une erreur sans abandonner  

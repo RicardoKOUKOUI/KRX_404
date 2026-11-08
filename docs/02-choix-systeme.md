@@ -1,4 +1,4 @@
-# 01 — Choix du système : Parrot OS
+# 02 — Choix du système : Parrot OS
 
 Beaucoup commencent sur **Kali Linux**. C’est très bien.  
 Moi, j’ai choisi **Parrot OS** pour être **différent**, et parce que ça colle à mon quotidien + mes labs.

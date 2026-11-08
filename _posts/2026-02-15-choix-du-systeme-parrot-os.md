@@ -1,11 +1,11 @@
 ---
 title: "Étape — Choix du système : pourquoi Parrot OS"
 description: "J’ai choisi Parrot OS pour être différent — avantages, comparaison avec Kali, Ubuntu, Windows, et pourquoi ça compte."
-category: Étape 01 · Système
+category: Étape 02 · Système
 reading_time: 6
 ---
 
-Avant de parler labs et exploits, il y a un choix concret : **sur quel système tu apprends la cyber**.
+Après les bases, il y a un choix concret : **sur quel système tu apprends la cyber**.
 
 Beaucoup partent direct sur **Kali Linux**. C’est une excellente distro.  
 Moi, j’ai choisi **Parrot OS** — volontairement — pour être **différent des autres**, et parce que ça correspond mieux à ma façon de travailler.
@@ -62,4 +62,4 @@ Choisir son OS et savoir **expliquer pourquoi**, ça montre déjà une posture :
 
 ## Suite du parcours
 
-Prochaine étape : les **fondamentaux** (Linux, réseau, bases) — sur Parrot, dans mon cas.
+Prochaine étape : la **maîtrise des commandes Linux** avec Bandit (OverTheWire).
