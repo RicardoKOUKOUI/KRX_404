@@ -57,3 +57,8 @@ Si j’ai pu y aller, d’autres aussi peuvent viser ça.
 - Aux lecteurs : renseigne-toi et inscris-toi dès l’ouverture (vers le **1er février**)
 
 Un immense merci aux organisateurs, formateurs, et à toutes les personnes croisées pendant ce mois.
+
+## Suite
+
+Après EEIA, j’ai créé ma chaîne YouTube pour **tenir la discipline** et **partager** :  
+➡️ [Après EEIA — je crée ma chaîne YouTube]({{ '/blog/chaine-youtube-discipline-et-partage/' | relative_url }})

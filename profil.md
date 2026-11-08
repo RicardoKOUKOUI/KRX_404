@@ -51,6 +51,7 @@ permalink: /profil/
           <li>Write-ups <strong>Bandit (OverTheWire)</strong> complets dans ce repo</li>
           <li>Badges / certifs (Cisco intro cyber, COFPS, CCEP)</li>
           <li><strong>EEIA 2026</strong> : sélectionné, 4 semaines immersives en IA</li>
+          <li><strong>YouTube @mr-robot-g2f</strong> : créée après EEIA pour la discipline et le partage</li>
         </ul>
       </article>
 
