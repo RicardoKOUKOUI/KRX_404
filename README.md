@@ -26,9 +26,9 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 | Étape | Thème | Fichier |
 |------:|-------|---------|
 | 00 | Qui je suis / mentalité | [docs/00-intro.md](docs/00-intro.md) |
-| 01 | Bases (informatique, réseau, Linux) | [docs/01-fondamentaux.md](docs/01-fondamentaux.md) |
-| 02 | **Choix du système (Parrot OS)** | [docs/02-choix-systeme.md](docs/02-choix-systeme.md) |
-| 03 | **Maîtrise commandes Linux (Bandit)** | [docs/03-maitrise-linux-bandit.md](docs/03-maitrise-linux-bandit.md) |
+| 01 | **Choix du système (Parrot OS)** | [docs/01-choix-systeme.md](docs/01-choix-systeme.md) |
+| 02 | **Maîtrise commandes Linux (Bandit)** | [docs/02-maitrise-linux-bandit.md](docs/02-maitrise-linux-bandit.md) |
+| 03 | Bases (informatique, réseau, Linux) | [docs/03-fondamentaux.md](docs/03-fondamentaux.md) |
 | 04 | Cybersécurité défensive & culture sécu | [docs/04-culture-cyber.md](docs/04-culture-cyber.md) |
 | 05 | Entrée pentest web | [docs/05-web-pentest.md](docs/05-web-pentest.md) |
 | 06 | Labs & CTF (pratique) | [docs/06-labs-ctf.md](docs/06-labs-ctf.md) |

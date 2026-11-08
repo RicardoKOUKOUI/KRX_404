@@ -1,4 +1,4 @@
-# 02 — Choix du système : Parrot OS
+# 01 — Choix du système : Parrot OS
 
 Beaucoup commencent sur **Kali Linux**. C’est très bien.  
 Moi, j’ai choisi **Parrot OS** pour être **différent**, et parce que ça colle à mon quotidien + mes labs.
@@ -25,5 +25,7 @@ Moi, j’ai choisi **Parrot OS** pour être **différent**, et parce que ça col
 
 La distro n’est pas une religion.  
 Mais un junior qui **assume son choix** (ici : Parrot) envoie déjà un signal.
+
+Suite : Bandit (`02-maitrise-linux-bandit.md`).
 
 Article blog : `/blog/choix-du-systeme-parrot-os/`

@@ -1,6 +1,6 @@
-# 03 — Maîtrise des commandes Linux (Bandit)
+# 02 — Maîtrise des commandes Linux (Bandit)
 
-Pour devenir à l’aise en terminal, je me suis entraîné sur **Bandit (OverTheWire)**.
+Après le **choix de Parrot OS**, pour devenir à l’aise en terminal, je me suis entraîné sur **Bandit (OverTheWire)**.
 
 ## Ce que j’ai fait
 

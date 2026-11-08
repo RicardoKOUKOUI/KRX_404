@@ -16,9 +16,9 @@ Je m’appelle **Ricardo Koukoui**.
 + **Parcours** structuré :
 
 1. Mentalité & intro  
-2. Fondamentaux (Linux, réseau, bases)  
-3. **Choix du système (Parrot OS)**  
-4. **Maîtrise des commandes Linux (Bandit OverTheWire — write-ups 0→fin)**  
+2. **Choix du système (Parrot OS)**  
+3. **Maîtrise des commandes Linux (Bandit OverTheWire — write-ups 0→fin)**  
+4. Fondamentaux (Linux, réseau, bases)  
 5. Culture cyber  
 6. Pentest web  
 7. Labs & CTF  

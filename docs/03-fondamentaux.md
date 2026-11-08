@@ -1,8 +1,8 @@
-# 01 — Fondamentaux (ne pas skip)
+# 03 — Fondamentaux (ne pas skip)
 
 Avant le “pentest style Hollywood”, il faut des bases solides.
 
-> Ensuite : [choix du système](02-choix-systeme.md) (Parrot OS), puis [Bandit](03-maitrise-linux-bandit.md).
+> Avant : [choix du système](01-choix-systeme.md) et [Bandit](02-maitrise-linux-bandit.md).
 
 ## 1) Informatique générale
 

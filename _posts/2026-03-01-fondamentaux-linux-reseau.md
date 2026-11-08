@@ -1,13 +1,13 @@
 ---
 title: "Fondamentaux : Linux, réseau, bases (ne pas skip)"
 description: "Avant le pentest style film, il faut des bases solides. Voici mon socle."
-category: Étape 01 · Fondamentaux
+category: Étape 03 · Fondamentaux
 reading_time: 6
 ---
 
 Avant le “pentest style Hollywood”, il faut des bases solides.
 
-> Ensuite viendra le **choix du système** (Parrot OS), puis Bandit pour la pratique.  
+> Cette étape consolide les bases (après Parrot + Bandit dans mon parcours blog).  
 > Ici, on pose les bases — peu importe la distro, la méthode reste la même.
 
 ## Informatique générale
