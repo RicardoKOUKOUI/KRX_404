@@ -27,6 +27,15 @@ C’est une **routine**. Petit, régulier, mesurable.
 
 [TryHackMe](https://tryhackme.com/) est parfait pour une routine : rooms courtes, chemin guidé, progression visible.
 
+### 500+ salles gratuites
+
+Tu n’as pas besoin d’un abonnement premium pour démarrer : il y a **plus de 500 salles gratuites**.
+
+- Liste des salles gratuites (officielle) : [tryhackme.com/free-rooms](https://tryhackme.com/free-rooms)
+- Liste organisée **500+ free rooms** par thème : [github.com/0xfke/500-free-TryHackMe-rooms](https://github.com/0xfke/500-free-TryHackMe-rooms)
+
+Utilise ça pour ta routine quotidienne sans bloquer sur le paywall.
+
 ### Objectifs de streak (réalistes)
 
 | Niveau | Streak | Signification |

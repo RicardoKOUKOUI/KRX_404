@@ -9,6 +9,8 @@
 ## Pratique & routine
 
 - [TryHackMe](https://tryhackme.com/) — streaks + rooms quotidiennes
+- [TryHackMe free rooms](https://tryhackme.com/free-rooms) — salles gratuites officielles
+- [500+ Free TryHackMe rooms](https://github.com/0xfke/500-free-TryHackMe-rooms) — liste classée par thème
 - [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity)
 - [Cisco NetAcad](https://www.netacad.com/) — cours + badges
 - [Credly](https://www.credly.com/) — badges à coller sur LinkedIn

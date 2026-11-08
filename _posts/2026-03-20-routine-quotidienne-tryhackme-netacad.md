@@ -26,6 +26,16 @@ Mieux vaut **45 minutes chaque jour** que 8 heures une fois, puis silence radio.
 
 Sur [TryHackMe](https://tryhackme.com/), le **streak** force la régularité.
 
+### 500+ salles gratuites
+
+Bonne nouvelle : tu peux avancer longtemps **sans premium**.  
+Il y a **500+ salles gratuites** pour t’entraîner.
+
+- Salles gratuites officielles : [https://tryhackme.com/free-rooms](https://tryhackme.com/free-rooms)
+- Liste **500+ free rooms** classées par thème : [https://github.com/0xfke/500-free-TryHackMe-rooms](https://github.com/0xfke/500-free-TryHackMe-rooms)
+
+Parfait pour une routine quotidienne sans excuse.
+
 ### Objectifs que je recommande
 
 - **7 jours** → tu démarres pour de vrai  
