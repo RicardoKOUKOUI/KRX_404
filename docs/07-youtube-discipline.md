@@ -1,8 +1,8 @@
 # 07 — Chaîne YouTube (discipline & partage)
 
-Étape **après EEIA** : créer une chaîne pour tenir le rythme et partager.
+Créer une chaîne pour tenir le rythme et partager.
 
-➡️ Article blog : [Après EEIA — je crée ma chaîne YouTube](https://ricardokoukoui.me/KRX_404/blog/chaine-youtube-discipline-et-partage/)  
+➡️ Article blog : [Ma chaîne YouTube](https://ricardokoukoui.me/KRX_404/blog/chaine-youtube-discipline-et-partage/)  
 ➡️ Sur le site : étape **9** du [Parcours](https://ricardokoukoui.me/KRX_404/about/)
 
 **Chaîne :** [@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f) (Mr-Robot)

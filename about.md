@@ -20,7 +20,7 @@ Présentation complète : **[Profil](/KRX_404/profil/)**.
 6. Labs & CTF  
 7. Outils du quotidien  
 8. **EEIA 2026** (Python → ML → Robotique → Projet) — [article](/KRX_404/blog/eeia-2026-mon-mois-en-ia/)  
-9. **Chaîne YouTube @mr-robot-g2f** — discipline + partage du savoir — [article](/KRX_404/blog/chaine-youtube-discipline-et-partage/)  
+9. **Ma chaîne YouTube @mr-robot-g2f** — discipline + partage — [article](/KRX_404/blog/chaine-youtube-discipline-et-partage/)  
 
 Inscriptions EEIA à surveiller vers le **1er février**.
 

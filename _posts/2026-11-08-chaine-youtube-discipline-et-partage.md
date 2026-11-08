@@ -1,13 +1,13 @@
 ---
-title: "Après EEIA — je crée ma chaîne YouTube"
+title: "Ma chaîne YouTube"
 description: "Pourquoi j’ai lancé @mr-robot-g2f : garder la discipline, partager ce que j’apprends, et documenter le chemin en public."
 category: Journal · YouTube
 reading_time: 4
 ---
 
-Après mon mois à l’**EEIA 2026**, une chose était claire : j’avais **beaucoup appris**, et je ne voulais pas que ça reste juste dans ma tête.
+J’ai créé ma chaîne YouTube : **[@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)** (Mr-Robot).
 
-Alors j’ai créé ma chaîne YouTube : **[@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)** (Mr-Robot).
+Pour **garder ma discipline**, et pour **partager mon savoir** — labs, cyber, retours d’expérience — sans que ça reste juste dans ma tête.
 
 ## Pourquoi une chaîne ?
 
@@ -19,14 +19,14 @@ Deux raisons simples :
    La caméra (ou l’écran) devient un rendez-vous avec moi-même.
 
 2. **Partager mon savoir**  
-   Labs, commandes Linux, cyber, retours d’expérience EEIA / IA…  
+   Labs, commandes Linux, cyber, IA…  
    Ce que je découvre, je le redis à voix haute pour ceux qui démarrent derrière moi.  
    Learning in public, version vidéo.
 
 ## Ce que tu y trouveras
 
 - Du **contenu cyber** (bases, labs, mindset)  
-- Des **retours d’expérience** (EEIA, routine, outils)  
+- Des **retours d’expérience** (routine, outils, parcours)  
 - Une vibe **Mr-Robot** / terminal — sans prétendre être un expert fini
 
 Je ne vends pas une “méthode magique”.  
@@ -42,7 +42,6 @@ YouTube, c’est la **discipline vivante** + le partage plus direct.
 
 ## En résumé
 
-- Après EEIA → besoin de **tenir le rythme**  
 - Chaîne créée pour la **discipline** et le **partage**  
 - Pseudo / marque : **Mr-Robot** · **@mr-robot-g2f**  
 - Même règle qu’ici : **éthique**, labs et cadres autorisés seulement

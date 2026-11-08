@@ -32,7 +32,7 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 | 04 | **Routine quotidienne (THM + NetAcad)** | [docs/04-routine-quotidienne.md](docs/04-routine-quotidienne.md) |
 | 05 | Labs & CTF (pratique) | [docs/05-labs-ctf.md](docs/05-labs-ctf.md) |
 | 06 | Outils du quotidien | [docs/06-outils.md](docs/06-outils.md) |
-| 07 | **YouTube (discipline & partage)** — après EEIA | [docs/07-youtube-discipline.md](docs/07-youtube-discipline.md) |
+| 07 | **Ma chaîne YouTube** (discipline & partage) | [docs/07-youtube-discipline.md](docs/07-youtube-discipline.md) |
 
 **Ressources globales :** [RESSOURCES.md](RESSOURCES.md)  
 **Template de write-up :** [templates/WRITEUP.md](templates/WRITEUP.md)  
