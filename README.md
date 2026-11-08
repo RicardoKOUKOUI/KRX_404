@@ -81,7 +81,8 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 ## Contact
 
 - GitHub : [@RicardoKOUKOUI](https://github.com/RicardoKOUKOUI)
-- LinkedIn : *(à ajouter)*
+- LinkedIn : [Ricardo Koukoui](https://www.linkedin.com/in/ricardo-koukoui-8a8437399)
+- YouTube : [@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f) (Mr-Robot)
 
 ---
 
