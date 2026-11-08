@@ -23,6 +23,8 @@ Présentation complète : **[Profil](/KRX_404/profil/)**.
 **Hors parcours linéaire :** mon mois **EEIA 2026** (Python → ML → Robotique → Projet) — [lire l’article](/KRX_404/blog/eeia-2026-mon-mois-en-ia/).  
 Inscriptions à surveiller vers le **1er février**.  
 
+**Étape suivante (après EEIA) :** création de ma chaîne YouTube **[@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)** pour **garder la discipline** et **partager mon savoir** — [lire l’article](/KRX_404/blog/chaine-youtube-discipline-et-partage/).
+
 ## Liens
 
 - [GitHub](https://github.com/RicardoKOUKOUI)
