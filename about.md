@@ -22,9 +22,9 @@ Je m’appelle **Ricardo Koukoui**.
 5. **Routine quotidienne (TryHackMe streaks + badges NetAcad / LinkedIn)**  
 6. Labs & CTF  
 7. Outils du quotidien  
-8. Portfolio & rapports  
 
-Le post le plus récent côté journal : formation web (PortSwigger) + streak TryHackMe.  
+**Hors parcours linéaire :** mon mois **EEIA 2026** (Python → ML → Robotique → Projet) — [lire l’article](/KRX_404/blog/eeia-2026-mon-mois-en-ia/).  
+Inscriptions à surveiller vers le **1er février**.  
 
 ## Liens
 

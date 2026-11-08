@@ -32,7 +32,6 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 | 04 | **Routine quotidienne (THM + NetAcad)** | [docs/04-routine-quotidienne.md](docs/04-routine-quotidienne.md) |
 | 05 | Labs & CTF (pratique) | [docs/05-labs-ctf.md](docs/05-labs-ctf.md) |
 | 06 | Outils du quotidien | [docs/06-outils.md](docs/06-outils.md) |
-| 07 | Soft skills, rapports, portfolio | [docs/07-portfolio-et-rapports.md](docs/07-portfolio-et-rapports.md) |
 
 **Ressources globales :** [RESSOURCES.md](RESSOURCES.md)  
 **Template de write-up :** [templates/WRITEUP.md](templates/WRITEUP.md)  
@@ -42,7 +41,8 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 
 ## Comment suivre mes traces (méthode)
 
-1. Lis l’étape **00 → 07** dans l’ordre  
+1. Lis l’étape **00 → 06** dans l’ordre  
+1b. Lis aussi le récit **EEIA 2026** (IA) : [docs/eeia-2026.md](docs/eeia-2026.md) / [article blog](https://ricardokoukoui.me/KRX_404/blog/eeia-2026-mon-mois-en-ia/)  
 2. Ne saute pas la pratique (labs)  
 3. Pour chaque lab : note **recon → faille → impact → fix**  
 4. Publie tes write-ups (même courts)  
