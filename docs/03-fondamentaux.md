@@ -46,7 +46,6 @@ Pas besoin d’être dev senior, mais :
 
 ### Linux & terminal
 - [Linux Journey](https://linuxjourney.com/) — parcours gratuit, très clair pour débuter
-- [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) — pratique des commandes (déjà dans l’étape Bandit)
 - [explainshell](https://explainshell.com/) — comprends une commande ligne par ligne
 - [SS64 Linux Help](https://ss64.com/bash/) — aide-mémoire des commandes
 - [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) — doc solide (utile aussi sur Parrot)
