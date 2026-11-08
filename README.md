@@ -28,21 +28,22 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 | 00 | Qui je suis / mentalité | [docs/00-intro.md](docs/00-intro.md) |
 | 01 | **Choix du système (Parrot OS)** | [docs/01-choix-systeme.md](docs/01-choix-systeme.md) |
 | 02 | Bases (informatique, réseau, Linux) | [docs/02-fondamentaux.md](docs/02-fondamentaux.md) |
-| 03 | Cybersécurité défensive & culture sécu | [docs/03-culture-cyber.md](docs/03-culture-cyber.md) |
-| 04 | Entrée pentest web | [docs/04-web-pentest.md](docs/04-web-pentest.md) |
-| 05 | Labs & CTF (pratique) | [docs/05-labs-ctf.md](docs/05-labs-ctf.md) |
-| 06 | Outils du quotidien | [docs/06-outils.md](docs/06-outils.md) |
-| 07 | Soft skills, rapports, portfolio | [docs/07-portfolio-et-rapports.md](docs/07-portfolio-et-rapports.md) |
+| 03 | **Maîtrise commandes Linux (Bandit)** | [docs/03-maitrise-linux-bandit.md](docs/03-maitrise-linux-bandit.md) |
+| 04 | Cybersécurité défensive & culture sécu | [docs/04-culture-cyber.md](docs/04-culture-cyber.md) |
+| 05 | Entrée pentest web | [docs/05-web-pentest.md](docs/05-web-pentest.md) |
+| 06 | Labs & CTF (pratique) | [docs/06-labs-ctf.md](docs/06-labs-ctf.md) |
+| 07 | Outils du quotidien | [docs/07-outils.md](docs/07-outils.md) |
+| 08 | Soft skills, rapports, portfolio | [docs/08-portfolio-et-rapports.md](docs/08-portfolio-et-rapports.md) |
 
 **Ressources globales :** [RESSOURCES.md](RESSOURCES.md)  
 **Template de write-up :** [templates/WRITEUP.md](templates/WRITEUP.md)  
-**Mes labs documentés :** [labs/](labs/)
+**Mes labs documentés :** [labs/](labs/) · **Bandit write-ups :** [labs/bandit/](labs/bandit/)
 
 ---
 
 ## Comment suivre mes traces (méthode)
 
-1. Lis l’étape **00 → 07** dans l’ordre  
+1. Lis l’étape **00 → 08** dans l’ordre  
 2. Ne saute pas la pratique (labs)  
 3. Pour chaque lab : note **recon → faille → impact → fix**  
 4. Publie tes write-ups (même courts)  

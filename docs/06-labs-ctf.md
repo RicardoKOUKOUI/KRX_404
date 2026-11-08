@@ -1,4 +1,4 @@
-# 05 — Labs & CTF (la vraie progression)
+# 06 — Labs & CTF (la vraie progression)
 
 La théorie sans labs = illusion.  
 Les labs sans notes = progrès qui disparaît.

@@ -18,11 +18,12 @@ Je m’appelle **Ricardo Koukoui**.
 1. Mentalité & intro  
 2. **Choix du système (Parrot OS)**  
 3. Fondamentaux (Linux, réseau, bases)  
-4. Culture cyber  
-5. Pentest web  
-6. Labs & CTF  
-7. Outils du quotidien  
-8. Portfolio & rapports  
+4. **Maîtrise des commandes Linux (Bandit OverTheWire — write-ups 0→fin)**  
+5. Culture cyber  
+6. Pentest web  
+7. Labs & CTF  
+8. Outils du quotidien  
+9. Portfolio & rapports  
 
 Le post le plus récent côté journal : formation **Web Pentest Foundation**, PortSwigger, streak TryHackMe.  
 

@@ -1,7 +1,7 @@
 ---
 title: "Culture cybersécurité : voir plus large que le pentest"
 description: "Blue team, red team, AppSec, CIA, OWASP, CVSS — le paysage d’un junior crédible."
-category: Étape 03 · Culture
+category: Étape 04 · Culture
 reading_time: 5
 ---
 

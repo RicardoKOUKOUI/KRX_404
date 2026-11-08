@@ -1,17 +1,12 @@
 # Labs
 
-Ici je dépose mes write-ups au fur et à mesure.
+## Bandit (OverTheWire)
 
-## Convention de nommage
+Entraînement commandes Linux — **tous les levels documentés**.
 
-`YYYY-MM-nom-du-lab.md`
+➡️ [`bandit/README.md`](bandit/README.md)
 
-Exemple : `2026-11-juice-shop-xss.md`
+## Convention write-ups perso
 
-## Index
-
-| Date | Lab | Thème | Lien |
-|------|-----|-------|------|
-| — | (à venir) | — | — |
-
-> Utilise le template : [`../templates/WRITEUP.md`](../templates/WRITEUP.md)
+`YYYY-MM-nom-du-lab.md`  
+Template : [`../templates/WRITEUP.md`](../templates/WRITEUP.md)
