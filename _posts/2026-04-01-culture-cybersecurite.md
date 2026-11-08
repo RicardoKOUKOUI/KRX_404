@@ -1,7 +1,7 @@
 ---
 title: "Culture cybersécurité : voir plus large que l’offensif"
 description: "Blue team, red team, AppSec, CIA, OWASP, CVSS — le paysage d’un junior crédible."
-category: Étape 04 · Culture
+category: Étape 05 · Culture
 reading_time: 5
 ---
 

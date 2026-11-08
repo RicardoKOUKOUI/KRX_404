@@ -1,7 +1,7 @@
 ---
 title: "Labs & CTF : 1 lab fini = 1 write-up"
 description: "La vraie progression vient de la pratique documentée. Ma règle et mes plateformes."
-category: Étape 06 · Labs
+category: Étape 07 · Labs
 reading_time: 5
 ---
 

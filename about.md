@@ -19,11 +19,12 @@ Je m’appelle **Ricardo Koukoui**.
 2. **Choix du système (Parrot OS)**  
 3. **Maîtrise des commandes Linux (Bandit OverTheWire — write-ups 0→fin)**  
 4. Fondamentaux (Linux, réseau, bases)  
-5. Culture cyber  
-6. Sécurité web  
-7. Labs & CTF  
-8. Outils du quotidien  
-9. Portfolio & rapports  
+5. **Routine quotidienne (TryHackMe streaks + badges NetAcad / LinkedIn)**  
+6. Culture cyber  
+7. Sécurité web  
+8. Labs & CTF  
+9. Outils du quotidien  
+10. Portfolio & rapports  
 
 Le post le plus récent côté journal : formation web (PortSwigger) + streak TryHackMe.  
 

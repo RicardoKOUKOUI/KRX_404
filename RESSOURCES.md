@@ -6,9 +6,12 @@
 - [PortSwigger Web Security Academy](https://portswigger.net/web-security)
 - [OWASP Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 
-## Pratique
+## Pratique & routine
 
-- [TryHackMe](https://tryhackme.com/)
+- [TryHackMe](https://tryhackme.com/) — streaks + rooms quotidiennes
+- [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity)
+- [Cisco NetAcad](https://www.netacad.com/) — cours + badges
+- [Credly](https://www.credly.com/) — badges à coller sur LinkedIn
 - [Hack The Box](https://www.hackthebox.com/)
 - [DVWA](https://github.com/digininja/DVWA)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)

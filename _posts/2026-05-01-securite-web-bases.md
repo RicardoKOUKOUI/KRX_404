@@ -1,7 +1,7 @@
 ---
 title: "Sécurité web : les bases"
 description: "OWASP, Burp/ZAP, XSS, SQLi, IDOR — la méthode et les labs pour démarrer proprement."
-category: Étape 05 · Sécurité web
+category: Étape 06 · Sécurité web
 reading_time: 7
 ---
 
