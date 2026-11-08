@@ -42,9 +42,39 @@ Pas besoin d’être dev senior, mais :
 
 **Exercice :** petit script qui parse un fichier de ports ou un export Burp.
 
-## Checklist étape 02
+## Sites recommandés (fondamentaux)
+
+### Linux & terminal
+- [Linux Journey](https://linuxjourney.com/) — parcours gratuit, très clair pour débuter
+- [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) — pratique des commandes (déjà dans l’étape Bandit)
+- [explainshell](https://explainshell.com/) — comprends une commande ligne par ligne
+- [SS64 Linux Help](https://ss64.com/bash/) — aide-mémoire des commandes
+- [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/) — doc solide (utile aussi sur Parrot)
+
+### Réseau
+- [Cisco Networking Basics (Skills for All)](https://www.netacad.com/courses/networking-basics) — bases réseau gratuites
+- [Practical Networking](https://www.practicalnetworking.net/) — explications TCP/IP très pédagogiques
+- [Cloudflare Learning Center](https://www.cloudflare.com/learning/) — DNS, HTTP, TLS, CDN expliqués simplement
+- [Wireshark Official Docs](https://www.wireshark.org/docs/) — apprendre à lire le trafic
+
+### Web / HTTP (bases)
+- [MDN Web Docs — HTTP](https://developer.mozilla.org/fr/docs/Web/HTTP) — référence claire requêtes/réponses/headers
+- [MDN — Cookies](https://developer.mozilla.org/fr/docs/Web/HTTP/Cookies) — sessions & cookies
+
+### Programmation utile
+- [learn-bash](https://github.com/Idnan/bash-guide) / [Bash Guide](https://mywiki.wooledge.org/BashGuide) — bash sérieux
+- [Python Official Tutorial](https://docs.python.org/3/tutorial/) — bases Python
+- [freeCodeCamp](https://www.freecodecamp.org/) — HTML/JS si besoin web
+- [Regex101](https://regex101.com/) — s’entraîner aux expressions régulières
+
+### Labs “fondamentaux cyber”
+- [TryHackMe — Pre Security](https://tryhackme.com/path/outline/presecurity) — chemin débutant (réseau, Linux, web)
+- [Hack The Box Academy (free modules)](https://academy.hackthebox.com/) — modules intro selon dispo
+
+## Checklist étape 03
 
 - [ ] Je suis à l’aise en terminal Linux
 - [ ] Je comprends IP / DNS / HTTP
 - [ ] Je peux expliquer une requête GET/POST
 - [ ] Je sais lire un message d’erreur sans abandonner
+- [ ] J’ai bookmarké 3–5 sites de cette liste et je m’en sers vraiment

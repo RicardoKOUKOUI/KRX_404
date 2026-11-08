@@ -42,9 +42,41 @@ Sur Parrot / Kali / Debian / Ubuntu :
 - Comprendre un peu de **JavaScript** (web)
 - Savoir lire une requête HTTP et un JSON
 
+## Sites pour bosser les fondamentaux
+
+### Linux
+- [Linux Journey](https://linuxjourney.com/)
+- [explainshell](https://explainshell.com/)
+- [SS64 Bash](https://ss64.com/bash/)
+- [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/)
+
+### Réseau
+- [Cisco Networking Basics](https://www.netacad.com/courses/networking-basics)
+- [Practical Networking](https://www.practicalnetworking.net/)
+- [Cloudflare Learning](https://www.cloudflare.com/learning/)
+- [Wireshark Docs](https://www.wireshark.org/docs/)
+
+### Web / HTTP
+- [MDN HTTP](https://developer.mozilla.org/fr/docs/Web/HTTP)
+- [MDN Cookies](https://developer.mozilla.org/fr/docs/Web/HTTP/Cookies)
+
+### Code utile
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
+- [Python Tutorial](https://docs.python.org/3/tutorial/)
+- [freeCodeCamp](https://www.freecodecamp.org/)
+- [Regex101](https://regex101.com/)
+
+### Chemins labs débutant
+- [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity)
+- [HTB Academy](https://academy.hackthebox.com/)
+
+> Astuce : ne collectionne pas 50 onglets. Prends **Linux Journey + MDN HTTP + Cloudflare Learning**, et avance.
+
 ## Checklist
 
 - [ ] À l’aise en terminal Linux  
 - [ ] Je comprends IP / DNS / HTTP  
 - [ ] Je peux expliquer GET/POST  
 - [ ] Je sais lire une erreur sans abandonner  
+- [ ] J’utilise vraiment 3–5 de ces sites  
+

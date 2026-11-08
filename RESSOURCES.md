@@ -13,11 +13,20 @@
 - [DVWA](https://github.com/digininja/DVWA)
 - [OWASP Juice Shop](https://owasp.org/www-project-juice-shop/)
 
-## Linux / Réseau
+## Linux / Réseau / Fondamentaux
 
-- Docs Debian / man pages
-- Cours réseaux (TCP/IP basics)
-- Wireshark University / tutos officiels
+- [Linux Journey](https://linuxjourney.com/)
+- [explainshell](https://explainshell.com/)
+- [SS64 Bash](https://ss64.com/bash/)
+- [Debian Reference](https://www.debian.org/doc/manuals/debian-reference/)
+- [Cisco Networking Basics](https://www.netacad.com/courses/networking-basics)
+- [Practical Networking](https://www.practicalnetworking.net/)
+- [Cloudflare Learning Center](https://www.cloudflare.com/learning/)
+- [Wireshark Docs](https://www.wireshark.org/docs/)
+- [MDN HTTP](https://developer.mozilla.org/fr/docs/Web/HTTP)
+- [TryHackMe Pre Security](https://tryhackme.com/path/outline/presecurity)
+- [Python Tutorial](https://docs.python.org/3/tutorial/)
+- [Bash Guide](https://mywiki.wooledge.org/BashGuide)
 
 ## CVSS / Reporting
 
