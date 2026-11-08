@@ -1,7 +1,7 @@
 ---
 title: "Outils du quotidien : un kit junior, pas 300 tools"
 description: "Burp, notes, Linux, reporting — le setup minimal qui fait avancer."
-category: Étape 05
+category: Étape 06 · Outils
 reading_time: 4
 ---
 

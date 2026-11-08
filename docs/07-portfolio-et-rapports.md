@@ -1,4 +1,4 @@
-# 06 — Portfolio, rapports & visibilité
+# 07 — Portfolio, rapports & visibilité
 
 En junior, on ne te juge pas seulement sur “j’ai root”.  
 On te juge sur : **clarté, méthode, éthique, remédiation**.

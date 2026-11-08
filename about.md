@@ -16,14 +16,15 @@ Je m’appelle **Ricardo Koukoui**.
 + **Parcours** structuré :
 
 1. Mentalité & intro  
-2. Fondamentaux (Linux, réseau, bases)  
-3. Culture cyber  
-4. Pentest web  
-5. Labs & CTF  
-6. Outils du quotidien  
-7. Portfolio & rapports  
+2. **Choix du système (Parrot OS)**  
+3. Fondamentaux (Linux, réseau, bases)  
+4. Culture cyber  
+5. Pentest web  
+6. Labs & CTF  
+7. Outils du quotidien  
+8. Portfolio & rapports  
 
-Le post le plus récent : formation **Web Pentest Foundation**, PortSwigger, streak TryHackMe.  
+Le post le plus récent côté journal : formation **Web Pentest Foundation**, PortSwigger, streak TryHackMe.  
 
 ## Liens
 

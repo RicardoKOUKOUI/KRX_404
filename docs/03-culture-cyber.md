@@ -1,4 +1,4 @@
-# 02 — Culture cybersécurité
+# 03 — Culture cybersécurité
 
 Le pentest n’est qu’**une** branche. Un junior crédible comprend le paysage.
 

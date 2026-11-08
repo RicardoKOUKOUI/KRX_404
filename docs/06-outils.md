@@ -1,4 +1,4 @@
-# 05 — Outils du quotidien (junior)
+# 06 — Outils du quotidien (junior)
 
 Un junior n’a pas besoin de 300 tools. Il a besoin d’un **kit propre**.
 
