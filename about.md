@@ -12,7 +12,8 @@ Je m’appelle **Ricardo Koukoui**.
 
 ## Comment lire ce blog
 
-Suis les articles dans l’ordre du parcours :
+**Journal LinkedIn** (les plus récents en premier sur la home)  
++ **Parcours** structuré :
 
 1. Mentalité & intro  
 2. Fondamentaux (Linux, réseau, bases)  
@@ -21,6 +22,8 @@ Suis les articles dans l’ordre du parcours :
 5. Labs & CTF  
 6. Outils du quotidien  
 7. Portfolio & rapports  
+
+Le post le plus récent : formation **Web Pentest Foundation**, PortSwigger, streak TryHackMe.  
 
 ## Liens
 
