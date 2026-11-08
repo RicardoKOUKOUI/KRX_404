@@ -6,15 +6,15 @@ permalink: /profil/
 ---
 
 <div class="profile-hero">
-  <p class="eyebrow">KRX_404 · À propos</p>
+  <p class="eyebrow">À propos</p>
   <h2 class="profile-name">Ricardo Koukoui</h2>
-  <p class="lede">Étudiant en sécurité informatique à l’IFRI · Bénin · Cybersécurité & Intelligence Artificielle</p>
+  <p class="lede"><strong>Pseudo :</strong> KRX_404 · Étudiant IFRI · Bénin · Cybersécurité & IA</p>
 </div>
 
 ## En deux mots
 
 Je m’appelle **Ricardo Corneil Finagnon Koukoui**.  
-Je construis mon chemin en public : labs, write-ups, badges, et les leçons que je tire en cours de route.
+Mon pseudo, c’est **KRX_404** — c’est sous ce nom que je construis mon chemin en public : labs, write-ups, badges, et les leçons que je tire en cours de route.
 
 Je ne prétends pas tout savoir. Je documente ce que j’apprends — pour moi, et pour ceux qui veulent suivre les mêmes traces.
 
