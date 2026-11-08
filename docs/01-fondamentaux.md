@@ -10,7 +10,32 @@ Avant le “pentest style Hollywood”, il faut des bases solides.
 
 **Objectif :** lire une doc technique sans paniquer.
 
-## 2) Linux (obligatoire)
+## 2) Choix du système : pourquoi j’ai pris Parrot OS
+
+Beaucoup commencent sur **Kali Linux** — c’est très bien.  
+Moi, j’ai choisi **Parrot OS** pour être un peu **différent**, et parce que ça colle mieux à un usage quotidien + labs.
+
+### Avantages de Parrot (pour moi)
+
+- Usage quotidien plus confortable qu’une distro “100 % offensive”
+- Souvent plus léger sur des machines modestes
+- Forte orientation privacy / posture éthique
+- Outils cyber déjà présents (pentest, forensics, OSINT…)
+- Base Debian (écosystème stable)
+- Un choix assumé : en junior, savoir **expliquer pourquoi** ton OS > suivre la mode sans réfléchir
+
+### Comparaison rapide
+
+| Système | Points forts | Limite fréquente |
+|---------|--------------|------------------|
+| **Parrot OS** | Équilibre lab + quotidien, privacy, outils inclus | Moins “standard corporate” que Kali |
+| **Kali Linux** | Référence pentest, grosse communauté | Moins pensé comme desktop du quotidien |
+| **Ubuntu / Debian** | Idéal pour apprendre Linux proprement | Stack sécu à installer soi-même |
+| **Windows seul** | Logiciels du quotidien | Moins naturel pour le tooling pentest |
+
+> La distro n’est pas une identité. **Linux + méthode**, oui.
+
+## 3) Linux (obligatoire)
 
 Sur Parrot / Kali / Debian / Ubuntu :
 
@@ -21,7 +46,7 @@ Sur Parrot / Kali / Debian / Ubuntu :
 
 **Exercice :** administre ta propre machine. Casse, répare, recommence.
 
-## 3) Réseau
+## 4) Réseau
 
 - IP, MAC, DNS, DHCP
 - TCP vs UDP
@@ -30,7 +55,7 @@ Sur Parrot / Kali / Debian / Ubuntu :
 
 **Outils d’apprentissage :** Wireshark (observer), labs Cisco Packet Tracer / docs réseau.
 
-## 4) Programmation (minimum utile)
+## 5) Programmation (minimum utile)
 
 Pas besoin d’être dev senior, mais :
 
@@ -42,6 +67,7 @@ Pas besoin d’être dev senior, mais :
 
 ## Checklist étape 01
 
+- [ ] J’ai choisi mon OS et je sais **pourquoi** (ex. Parrot)
 - [ ] Je suis à l’aise en terminal Linux
 - [ ] Je comprends IP / DNS / HTTP
 - [ ] Je peux expliquer une requête GET/POST
