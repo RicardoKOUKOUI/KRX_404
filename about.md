@@ -5,10 +5,7 @@ description: La carte complète — cybersécurité — étape par étape.
 permalink: /about/
 ---
 
-## Qui je suis
-
-Je m’appelle **Ricardo Koukoui**.  
-Étudiant en sécurité informatique à l’**IFRI**, passionné de CTF & cybersécurité, en construction d’un profil **profil cybersécurité**.
+Présentation complète : **[Profil](/KRX_404/profil/)**.
 
 ## Comment lire ce blog
 
