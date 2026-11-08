@@ -1,4 +1,4 @@
-# 09 — Portfolio, rapports & visibilité
+# 07 — Portfolio, rapports & visibilité
 
 En junior, on ne te juge pas seulement sur “j’ai root”.  
 On te juge sur : **clarté, méthode, éthique, remédiation**.
@@ -32,7 +32,7 @@ On te juge sur : **clarté, méthode, éthique, remédiation**.
 - Contribuer à des labs / write-ups
 - Continuer à publier régulièrement
 
-## Checklist étape 06
+## Checklist étape 07
 
 - [ ] Profil GitHub clair
 - [ ] Au moins 1 projet portfolio

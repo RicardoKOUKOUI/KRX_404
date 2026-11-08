@@ -30,11 +30,9 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 | 02 | **Maîtrise commandes Linux (Bandit)** | [docs/02-maitrise-linux-bandit.md](docs/02-maitrise-linux-bandit.md) |
 | 03 | Bases (informatique, réseau, Linux) | [docs/03-fondamentaux.md](docs/03-fondamentaux.md) |
 | 04 | **Routine quotidienne (THM + NetAcad)** | [docs/04-routine-quotidienne.md](docs/04-routine-quotidienne.md) |
-| 05 | Cybersécurité défensive & culture sécu | [docs/05-culture-cyber.md](docs/05-culture-cyber.md) |
-| 06 | Sécurité web | [docs/06-securite-web.md](docs/06-securite-web.md) |
-| 07 | Labs & CTF (pratique) | [docs/07-labs-ctf.md](docs/07-labs-ctf.md) |
-| 08 | Outils du quotidien | [docs/08-outils.md](docs/08-outils.md) |
-| 09 | Soft skills, rapports, portfolio | [docs/09-portfolio-et-rapports.md](docs/09-portfolio-et-rapports.md) |
+| 05 | Labs & CTF (pratique) | [docs/05-labs-ctf.md](docs/05-labs-ctf.md) |
+| 06 | Outils du quotidien | [docs/06-outils.md](docs/06-outils.md) |
+| 07 | Soft skills, rapports, portfolio | [docs/07-portfolio-et-rapports.md](docs/07-portfolio-et-rapports.md) |
 
 **Ressources globales :** [RESSOURCES.md](RESSOURCES.md)  
 **Template de write-up :** [templates/WRITEUP.md](templates/WRITEUP.md)  
@@ -44,7 +42,7 @@ Ce n’est pas un cours officiel. C’est **mon chemin**, transparent, pour que 
 
 ## Comment suivre mes traces (méthode)
 
-1. Lis l’étape **00 → 09** dans l’ordre  
+1. Lis l’étape **00 → 07** dans l’ordre  
 2. Ne saute pas la pratique (labs)  
 3. Pour chaque lab : note **recon → faille → impact → fix**  
 4. Publie tes write-ups (même courts)  

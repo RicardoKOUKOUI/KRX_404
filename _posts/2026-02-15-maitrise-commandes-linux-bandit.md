@@ -58,4 +58,4 @@ Mot de passe initial du level 0 : `bandit0`
 Te perdre fait partie du process.  
 Bandit est là pour ça. Ces write-ups sont une **boussole**, pas un remplacement de ta réflexion.
 
-Suite du parcours : culture cyber, puis la suite du parcours.
+Suite du parcours : fondamentaux, routine quotidienne, puis labs.

@@ -20,11 +20,9 @@ Je m’appelle **Ricardo Koukoui**.
 3. **Maîtrise des commandes Linux (Bandit OverTheWire — write-ups 0→fin)**  
 4. Fondamentaux (Linux, réseau, bases)  
 5. **Routine quotidienne (TryHackMe streaks + badges NetAcad / LinkedIn)**  
-6. Culture cyber  
-7. Sécurité web  
-8. Labs & CTF  
-9. Outils du quotidien  
-10. Portfolio & rapports  
+6. Labs & CTF  
+7. Outils du quotidien  
+8. Portfolio & rapports  
 
 Le post le plus récent côté journal : formation web (PortSwigger) + streak TryHackMe.  
 

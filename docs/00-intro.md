@@ -29,4 +29,4 @@ Je n’ai pas “tout su” d’un coup. J’ai commencé par la curiosité (com
 ## Comment utiliser ce repo
 
 Si tu débutes vraiment → `01-choix-systeme.md` → Bandit → `03-fondamentaux.md`  
-Si tu as déjà Linux/réseau → saute vers `06-securite-web.md` + `07-labs-ctf.md`
+Si tu as déjà Linux/réseau → saute vers `05-labs-ctf.md`

@@ -1,4 +1,4 @@
-# 08 — Outils du quotidien (junior)
+# 06 — Outils du quotidien (junior)
 
 Un junior n’a pas besoin de 300 tools. Il a besoin d’un **kit propre**.
 
@@ -26,7 +26,7 @@ Un junior n’a pas besoin de 300 tools. Il a besoin d’un **kit propre**.
 - Screenshots sans explication
 - “Automatiser” avant de comprendre manuellement
 
-## Checklist étape 05
+## Checklist étape 06
 
 - [ ] Burp/ZAP OK sur un lab local
 - [ ] Système de notes en place

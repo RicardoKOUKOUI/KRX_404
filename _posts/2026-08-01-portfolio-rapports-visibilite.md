@@ -1,7 +1,7 @@
 ---
 title: "Portfolio, rapports & visibilité (ce qu’on juge vraiment)"
 description: "Clarté, méthode, éthique, remédiation — comment un junior se présente."
-category: Étape 09 · Portfolio
+category: Étape 07 · Portfolio
 reading_time: 5
 ---
 
