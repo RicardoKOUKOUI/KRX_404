@@ -10,6 +10,8 @@ timezone: Africa/Porto-Novo
 markdown: kramdown
 permalink: /blog/:title/
 
+future: true
+
 exclude:
   - templates/
   - docs/
@@ -20,6 +22,8 @@ exclude:
   - .gitignore
   - Gemfile
   - Gemfile.lock
+  - sync-auto.sh
+  - vendor/
 
 defaults:
   - scope:

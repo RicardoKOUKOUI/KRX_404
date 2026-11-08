@@ -37,7 +37,7 @@ Je montre **où j’en suis**, ce que je comprends, et ce que je corrige au fil 
 Le blog reste la **mémoire écrite**.  
 YouTube, c’est la **discipline vivante** + le partage plus direct.
 
-- Blog / parcours : [KRX_404]({{ '/' | relative_url }})  
+- Blog / parcours : [KRX_404](https://ricardokoukoui.me/KRX_404/)  
 - Chaîne : [youtube.com/@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)
 
 ## En résumé

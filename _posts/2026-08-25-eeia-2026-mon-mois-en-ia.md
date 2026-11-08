@@ -61,4 +61,4 @@ Un immense merci aux organisateurs, formateurs, et à toutes les personnes crois
 ## Suite
 
 Après EEIA, j’ai créé ma chaîne YouTube pour **tenir la discipline** et **partager** :  
-➡️ [Après EEIA — je crée ma chaîne YouTube]({{ '/blog/chaine-youtube-discipline-et-partage/' | relative_url }})
+[Après EEIA — je crée ma chaîne YouTube](https://ricardokoukoui.me/KRX_404/blog/chaine-youtube-discipline-et-partage/)
