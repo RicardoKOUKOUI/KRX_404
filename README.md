@@ -3,7 +3,7 @@
 > Mon parcours en **cybersécurité** — du début à la cybersécurité, étape par étape.  
 > Si tu veux suivre les mêmes traces, ce repo est ta roadmap.
 
-**Blog (GitHub Pages) :** [https://ricardokoukoui.me/KRX_404/](https://ricardokoukoui.me/KRX_404/) · [github.io](https://ricardokoukoui.github.io/KRX_404/)
+**Blog :** [https://krx-404.github.io/](https://krx-404.github.io/) · aussi [ricardokoukoui.me/KRX_404](https://ricardokoukoui.me/KRX_404/)
 
 **Auteur / pseudo :** **KRX_404** ([@RicardoKOUKOUI](https://github.com/RicardoKOUKOUI))  
 **Profil :** Cybersecurity enthusiast · Cybersécurité · CS student (IFRI)  
