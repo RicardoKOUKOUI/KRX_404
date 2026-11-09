@@ -1,6 +1,6 @@
 title: KRX_404
 description: "Mon parcours cybersécurité — cybersécurité — étape par étape. Blog & roadmap."
-author: Ricardo Koukoui
+author: KRX_404
 email: koukouiricardo55@gmail.com
 url: "https://ricardokoukoui.me"
 baseurl: "/KRX_404"
@@ -31,4 +31,4 @@ defaults:
       type: "posts"
     values:
       layout: post
-      author: Ricardo Koukoui
+      author: KRX_404

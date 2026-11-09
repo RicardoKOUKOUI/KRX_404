@@ -5,10 +5,10 @@
 
 **Blog (GitHub Pages) :** [https://ricardokoukoui.me/KRX_404/](https://ricardokoukoui.me/KRX_404/) · [github.io](https://ricardokoukoui.github.io/KRX_404/)
 
-**Auteur :** Ricardo Corneil Finagnon Koukoui ([@RicardoKOUKOUI](https://github.com/RicardoKOUKOUI))  
+**Auteur / pseudo :** **KRX_404** ([@RicardoKOUKOUI](https://github.com/RicardoKOUKOUI))  
 **Profil :** Cybersecurity enthusiast · Cybersécurité · CS student (IFRI)  
 **OS :** Parrot Security / Linux  
-**YouTube :** [@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f) · **LinkedIn :** [Ricardo Koukoui](https://www.linkedin.com/in/ricardo-koukoui-8a8437399)
+**YouTube :** [@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f) · **LinkedIn :** [profil](https://www.linkedin.com/in/ricardo-koukoui-8a8437399)
 
 ---
 

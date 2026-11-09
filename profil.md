@@ -1,24 +1,24 @@
 ---
 layout: page
 title: Profil
-description: Ricardo Koukoui — étudiant IFRI, cybersécurité, IA, learning in public.
+description: KRX_404 — étudiant IFRI, cybersécurité, IA, learning in public.
 permalink: /profil/
 ---
 
 <div class="profile-hero">
-  <p class="eyebrow">À propos · KRX_404</p>
-  <h2 class="profile-name">Ricardo Koukoui</h2>
+  <p class="eyebrow">À propos</p>
+  <h2 class="profile-name">KRX_404</h2>
   <p class="lede">Étudiant IFRI · Bénin · Cybersécurité &amp; IA</p>
 </div>
 
-<div class="carousel" data-carousel aria-roledescription="carousel" aria-label="Parcours de Ricardo">
+<div class="carousel" data-carousel aria-roledescription="carousel" aria-label="Parcours de KRX_404">
   <div class="carousel-viewport">
     <div class="carousel-track">
 
       <article class="carousel-slide is-active" data-slide>
         <p class="carousel-kicker">01 — Identité</p>
         <h3>Qui je suis</h3>
-        <p>Je m’appelle <strong>Ricardo Corneil Finagnon Koukoui</strong>. Mon pseudo, c’est <strong>KRX_404</strong> — c’est sous ce nom que je construis mon chemin en public.</p>
+        <p>Je suis <strong>KRX_404</strong> — c’est sous ce nom que je construis mon chemin en public : labs, write-ups, badges, et les leçons que je tire en cours de route.</p>
         <p>Je ne prétends pas tout savoir. Je documente ce que j’apprends — pour moi, et pour ceux qui veulent suivre les mêmes traces.</p>
       </article>
 
