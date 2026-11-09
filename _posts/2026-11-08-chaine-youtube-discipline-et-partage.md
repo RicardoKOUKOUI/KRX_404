@@ -3,6 +3,7 @@ title: "Ma chaîne YouTube"
 description: "Pourquoi j’ai lancé @mr-robot-g2f : garder la discipline, partager ce que j’apprends, et documenter le chemin en public."
 category: Journal · YouTube
 reading_time: 4
+track: journal
 ---
 
 J’ai créé ma chaîne YouTube : **[@mr-robot-g2f](https://www.youtube.com/@mr-robot-g2f)** (Mr-Robot).
